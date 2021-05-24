@@ -6,3 +6,7 @@
 - 🤔 I’m looking for help with [Rhyme Player](https://github.com/Abdallah-Moh/Rhyme-Player)
 - 💬 Ask me about any thing [here](https://github.com/Abdallah-Moh/Abdallah-Moh/issues)
 - 📫 How to reach me: abdullah_mam1@icloud.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact)
+<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Moh&show_icons=true)
