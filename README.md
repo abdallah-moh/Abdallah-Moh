@@ -9,4 +9,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact)
 <br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abdallah)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Moh&show_icons=true)
