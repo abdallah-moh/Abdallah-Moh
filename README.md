@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on [Rhyme Player](https://github.com/Abdallah-Moh/Rhyme-Player)
 - 👯 I’m looking to collaborate on an open source project
 - 🤔 I’m looking for help with [Rhyme Player](https://github.com/Abdallah-Moh/Rhyme-Player)
-- 💬 Ask me about tech
+- 💬 Ask me about any thing [here](https://github.com/Abdallah-Moh/Abdallah-Moh/issues)
 - 📫 How to reach me: abdullah_mam1@icloud.com
