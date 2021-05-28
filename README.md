@@ -6,7 +6,7 @@
   <li>👯 I’m looking to collaborate on an open source project</li>
   <li>🤔 I’m looking for help with <a href="https://github.com/akiraux/akira">Akira UX for Linux</a></li>
   <li>💬 Ask me about any thing <a href="https://github.com/Abdallah-Moh/Abdallah-Moh/issues">here</a></li>
-  <li>📫 How to reach me: abdullah_mam1@icloud.com</a></li>
+  <li>📫 How to reach me:<a href="abdullah_mam1@icloud.com">abdullah_mam1@icloud.com</a></li>
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact"/>
