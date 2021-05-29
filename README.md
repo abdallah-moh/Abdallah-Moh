@@ -11,4 +11,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact"/>
 <br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Abdallah_Moh&layout=compact"/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Moh&show_icons=true&layout=compact"/>
