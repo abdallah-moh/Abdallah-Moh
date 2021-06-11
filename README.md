@@ -2,7 +2,7 @@
 </h1>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/Abdallah-Moh/Rhyme-Player">Rhyme Player</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/Rhyme-Player/Rhyme-Player">Rhyme Player</a></li>
   <li>👯 I’m looking to collaborate on an open source project</li>
   <li>🤔 I’m looking for help with <a href="https://github.com/akiraux/akira">Akira UX for Linux</a></li>
   <li>💬 Ask me about any thing <a href="https://github.com/Abdallah-Moh/Abdallah-Moh/issues">here</a></li>
