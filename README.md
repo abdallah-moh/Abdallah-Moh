@@ -9,7 +9,7 @@
   <li>📫 How to reach me: abdullah_mam1@icloud.com</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact"/> -->
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Abdallah_Moh&layout=compact"/>
 <br/>
