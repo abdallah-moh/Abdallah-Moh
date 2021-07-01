@@ -2,9 +2,9 @@
 </h1>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/Rhyme-Player/RhymePlayer">Rhyme Player</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/Rhyme-Player/RhymePlayer">Rhyme Player</a> and improving my readme</li>
   <li>👯 I’m looking to collaborate on an open source project</li>
-  <li>🤔 I’m looking for help with <a href="https://github.com/akiraux/akira">Akira UX for Linux</a></li>
+  <li>🤔 I’m looking for help with <a href="https://github.com/akiraux/akira">Akira UI/UX app</a> and <a href="https://github.com/PhotostatEditor/Photostat">Photostat Image editor</a></li>
   <li>💬 Ask me about any thing <a href="https://github.com/Abdallah-Moh/Abdallah-Moh/issues">here</a></li>
   <li>📫 How to reach me: abdullah_mam1@icloud.com</li>
 </ul>
