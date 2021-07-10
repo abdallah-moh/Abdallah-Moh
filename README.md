@@ -11,6 +11,4 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact"/> -->
 <br/>
-<img src="https://wakatime.com/share/@Abdallah_Moh/3b7f1732-7d59-43f4-aa0a-42b73c6bcd3b.svg"/>
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Moh&show_icons=true&layout=compact"/>
