@@ -1,9 +1,5 @@
-<h1 align="center">Hi there<img width="32px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
-</h1>
-<br/>
-<h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Moh&layout=compact&v=2"/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Moh&show_icons=true&layout=compact"/>
-</h3>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=abdallah-moh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-moh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=abdallah-moh&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
